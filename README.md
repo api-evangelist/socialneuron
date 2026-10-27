@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Social Neuron is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://socialneuron.com
+Social Neuron, built by Cosmocodex Ltd (UK), offers AI‑driven content creation and social‑media automation tools that learn from results. The platform generates videos, posts, and marketing assets for TikTok, Instagram, YouTube, and more, aiming to make AI content smarter and more effective.
+
+**Areas:** Company · AI · Content Creation · Social Media · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://socialneuron.com)
+- [Documentation](https://docs.socialneuron.com/)
+- [Getting started](https://docs.socialneuron.com/guides/mcp-quickstart)
+- [API reference](https://socialneuron.com/for-developers)
+- [Pricing](https://socialneuron.com/pricing)
+- [Support](https://socialneuron.com/help)
+- [Changelog](https://socialneuron.com/changelog)
+- [Blog](https://socialneuron.com/blog)
+- [Security](https://socialneuron.com/security)
+- [Terms of service](https://socialneuron.com/terms)
+- [Privacy policy](https://socialneuron.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/socialneuron/](https://apis.io/providers/socialneuron/).
